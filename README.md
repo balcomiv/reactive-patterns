@@ -1,5 +1,3 @@
-
-
 # ReactivePatterns
 
 This project was generated using [Nx](https://nx.dev).
@@ -87,11 +85,6 @@ Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 
 Visit the [Nx Documentation](https://nx.dev/angular) to learn more.
 
-
-
-
-
-
 ## ☁ Nx Cloud
 
 ### Computation Memoization in the Cloud
@@ -103,3 +96,23 @@ Nx Cloud pairs with Nx in order to enable you to build and test code more rapidl
 Teams using Nx gain the advantage of building full-stack applications with their preferred framework alongside Nx’s advanced code generation and project dependency graph, plus a unified experience for both frontend and backend developers.
 
 Visit [Nx Cloud](https://nx.app/) to learn more.
+
+## Nx Monorepo Links
+
+[Using Nx at Enterprises (lib/folder structure)](https://nx.dev/latest/angular/guides/monorepo-nx-enterprise)
+
+## Reactive Blog Links
+
+### Sipios
+
+[Clean code through Reactive programming in Angular with RxJS](https://www.sipios.com/blog-tech/reactive-programming-rxjs-observables-angular)
+
+### Eyas's Blog
+
+[Data and Page Content Refresh patterns in Angular](https://blog.eyas.sh/2018/12/data-and-page-content-refresh-patterns-in-angular/)
+
+[Better Loading and Error Handling in Angular](https://blog.eyas.sh/2020/05/better-loading-and-error-handling-in-angular)
+
+[Observables, Side-effects, and Subscriptions](https://blog.eyas.sh/2018/12/observables-side-effects-and-subscriptions/)
+
+[About those Side-effects in Observables, an Angular Use Case](https://blog.eyas.sh/2019/05/about-those-side-effects-in-observables-an-angular-use-case/)
